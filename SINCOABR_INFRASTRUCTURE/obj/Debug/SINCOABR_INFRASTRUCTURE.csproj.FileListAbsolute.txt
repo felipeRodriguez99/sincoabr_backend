@@ -1,0 +1,16 @@
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\SINCOABR_INFRASTRUCTURE.dll.config
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\SINCOABR_INFRASTRUCTURE.dll
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\SINCOABR_INFRASTRUCTURE.pdb
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\EntityFramework.dll
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\SINCOABR_CONTEXT.dll
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\SINCOABR_DOMAIN.dll
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\SINCOABR_CONTEXT.pdb
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\SINCOABR_CONTEXT.dll.config
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\SINCOABR_DOMAIN.pdb
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\EntityFramework.xml
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\obj\Debug\SINCOABR_INFRASTRUCTURE.csprojAssemblyReference.cache
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\obj\Debug\SINCOABR_INFRASTRUCTURE.csproj.CopyComplete
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\obj\Debug\SINCOABR_INFRASTRUCTURE.dll
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_INFRASTRUCTURE\obj\Debug\SINCOABR_INFRASTRUCTURE.pdb

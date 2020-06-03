@@ -1,0 +1,11 @@
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\bin\Debug\SINCOABR_DOMAIN.dll
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\bin\Debug\SINCOABR_DOMAIN.pdb
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\bin\Debug\SINCOABR_CONTEXT.dll
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\bin\Debug\EntityFramework.dll
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\bin\Debug\SINCOABR_CONTEXT.pdb
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\bin\Debug\SINCOABR_CONTEXT.dll.config
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\bin\Debug\EntityFramework.xml
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\obj\Debug\SINCOABR_DOMAIN.csprojAssemblyReference.cache
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\obj\Debug\SINCOABR_DOMAIN.csproj.CopyComplete
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\obj\Debug\SINCOABR_DOMAIN.dll
+C:\Proyects\Colegio SincoABR\sincoabr_backend\SINCOABR_DOMAIN\obj\Debug\SINCOABR_DOMAIN.pdb
